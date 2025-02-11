@@ -1,5 +1,4 @@
 # CodSoft_Ai
-Here’s your **README.md** for the **AI Tasks (CODSOFT Internship)**. This will cover all your AI projects in one repository.  
 
 ---
 
