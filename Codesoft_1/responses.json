@@ -1,0 +1,7 @@
+{
+    "phishing": "Phishing is a type of cyber attack where attackers trick you into revealing personal information. Always verify links before clicking!",
+    "strong password": "A strong password should be at least 12 characters long, include uppercase, lowercase, numbers, and special characters.",
+    "malware": "Malware is malicious software designed to harm your device. Use antivirus software and avoid downloading files from unknown sources.",
+    "firewall": "A firewall is a security system that monitors and controls network traffic to protect against cyber threats.",
+    "ransomware": "Ransomware is malware that encrypts files and demands a ransom to restore access. Keep backups and avoid opening suspicious emails."
+}
