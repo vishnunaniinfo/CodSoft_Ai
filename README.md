@@ -60,7 +60,7 @@ python face_detection.py
 ## 📌 **How to Use This Repository**
 1️⃣ Clone the repo:  
 ```bash
-git clone https://github.com/your-username/CODSOFT.git
+git clone https://github.com/vishnunaniinfo/CODSOFT.git
 cd CODSOFT
 ```
 2️⃣ Install dependencies for each project.  
