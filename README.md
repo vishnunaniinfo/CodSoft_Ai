@@ -75,14 +75,11 @@ cd CODSOFT
 
 ---
 
-## 📌 **Project Demo**
-🎥 **Upload demo videos** and showcase your AI projects!  
 
----
 
 ## 📌 **Connect & Support**
 If you find this useful, ⭐ **star this repository** on GitHub!  
-For questions, reach out via **LinkedIn: [Your Profile Link]**  
+For questions, reach out via **LinkedIn: [vishnuvardhanburri]**  
 
 ---
 🚀 **Made with ❤️ by Vishnu Vardhan Burri**
